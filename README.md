@@ -1,7 +1,7 @@
 ### Hola ahí 🦕
 
 - 🔭 I’m currently working on C++ and Python projects, and programming puzzles
-- 🌱 I’m currently learning combinatory logic, coroutines, and a bit of many different little things
+- 🌱 I’m currently learning [combinatory logic](https://combinatorylogic.com/), coroutines, and a bit of many different little things
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with collaborations
 - 💬 Ask me about anything
